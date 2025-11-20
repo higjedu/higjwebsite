@@ -1,5 +1,5 @@
 
-  # Gem and Jewellery Institute Website (Copy) (Copy)
+  # Gem and Jewellery Institute Website
 
 
   ## Running the code
