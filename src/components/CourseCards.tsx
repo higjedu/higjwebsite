@@ -107,7 +107,7 @@ export default function CourseCards() {
             </div>
           </CardHeader>
           
-          <CardContent className="space-y-4">
+          <CardContent className="space-y-4 text-center">
             <p className="text-gray-600">{course.description}</p>
             
             <div>

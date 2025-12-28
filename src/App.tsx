@@ -136,7 +136,7 @@ export default function App() {
               />
             </div>
             
-            <div>
+            <div className="text-center">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">About Our Institute</h2>
               <p className="text-gray-600 mb-6">
                 It has been 27 years since the birth of Hyderabad institute of Gems and Jewellry Private Limited.
@@ -151,8 +151,6 @@ export default function App() {
 
                 Today HIGJ as a Laboratory is also serving the trade by reporting and disclosing the identification of various colored stones & treatments, identification of synthetic gem materials,Identification of lab grown Diamonds, Grading various quality of Natural Diamonds in loose and mounted as well.
               </p>
-              
-              
             </div>
           </div>
         </div>
